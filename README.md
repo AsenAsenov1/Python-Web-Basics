@@ -1,1 +1,33 @@
-# Python-Web-Basics
+# SoftUni Python Web Basics - May 2023
+
+![image](SoftUni-Logo-Flat.png)
+
+### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
+
+### [Python Web Basics Training Program](https://softuni.bg/trainings/4109/python-web-basics-may-2023)
+
+### Course details:
+
+Course duration: 7 weeks<br>
+Course start: 10.05.2023<br>
+Course tutor: Ivan Ivanov
+
+| **Python Web Basics**                                                                                                                                                                                                                                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. **Resources**                                                                                                                                                                                                                                                                                                                               |
+| 2. **Course Introduction**                                                                                                                                                                                                                                                                                                                     |
+| 3. **Internet and HTTP**<br>&nbsp;&nbsp;&nbsp;• Introduction to Internet;<br>&nbsp;&nbsp;&nbsp;• HTTP Basics;<br>&nbsp;&nbsp;&nbsp;• HTTP Request and HTTP Respond<br>&nbsp;&nbsp;&nbsp;• MIME.                                                                                                                                                |
+| 4. **PostgreSQL Introduction**<br>&nbsp;&nbsp;&nbsp;• Data Management;<br>&nbsp;&nbsp;&nbsp;• Data Engine;<br>&nbsp;&nbsp;&nbsp;• Table Relations;<br>&nbsp;&nbsp;&nbsp;• Structured Query Language;<br>&nbsp;&nbsp;&nbsp;• PostgreSQL Intro;<br>&nbsp;&nbsp;&nbsp;• Data Types in PSQL;<br/>&nbsp;&nbsp;&nbsp;• Basic SQL Commands.           |
+| 5. **Django Introduction**<br>&nbsp;&nbsp;&nbsp;• Creating a Django Project;<br>&nbsp;&nbsp;&nbsp;• Creating a Django Application;<br>&nbsp;&nbsp;&nbsp;• Setting up a Database;<br>&nbsp;&nbsp;&nbsp;• Writing a Simple Task App;<br>&nbsp;&nbsp;&nbsp;• Django Admin;<br>&nbsp;&nbsp;&nbsp;• Creating a Simple Design.<br>&nbsp;&nbsp;&nbsp; |
+| 6. **URLs and Views**<br>&nbsp;&nbsp;&nbsp;• Creating a New Project;<br>&nbsp;&nbsp;&nbsp;• URLs in Django;<br>&nbsp;&nbsp;&nbsp; • Function-Based Views; <br>&nbsp;&nbsp;&nbsp; • Writing Dynamic Views;<br>&nbsp;&nbsp;&nbsp; • URL Reversing.                                                                                               |
+| 7. **Django Templates**<br>&nbsp;&nbsp;&nbsp;• Templates in Django;<br>&nbsp;&nbsp;&nbsp;• Django Template Language;<br>&nbsp;&nbsp;&nbsp;• Built-in Template Tags and Filters;<br>&nbsp;&nbsp;&nbsp;• Custom Template Tags and Filters;<br>&nbsp;&nbsp;&nbsp;• Template Inheritance;<br>&nbsp;&nbsp;&nbsp;• Static Files.                     |
+| 8. **Workshop: Part 1**                                                                                                                                                                                                                                                                                                                        | 
+| 9. **Models in Django - Part 1**<br>&nbsp;&nbsp;&nbsp;• Django ORM;<br>&nbsp;&nbsp;&nbsp;• Models Structure;<br>&nbsp;&nbsp;&nbsp;• Model Methods;<br>&nbsp;&nbsp;&nbsp;• Models Relationships;<br>&nbsp;&nbsp;&nbsp;• Migrations;<br>&nbsp;&nbsp;&nbsp;• Models in Django Admin.                                                              |
+| 10. **Models in Django - Part 2**<br>&nbsp;&nbsp;&nbsp; • Model Manager;<br>&nbsp;&nbsp;&nbsp;• Class Meta;<br>&nbsp;&nbsp;&nbsp;• Making Queries in Views.                                                                                                                                                                                    |
+| 11. **Workshop: Part 2**                                                                                                                                                                                                                                                                                                                       |
+| 12. **Django Forms - Part 1**• Django Forms;<br>&nbsp;&nbsp;&nbsp;• Built-in widgets;<br>&nbsp;&nbsp;&nbsp;• Validating Forms;<br>&nbsp;&nbsp;&nbsp;• The ModelForm Class;<br>&nbsp;&nbsp;&nbsp;• Using Model Forms;<br>&nbsp;&nbsp;&nbsp;• Validating Model Forms.                                                                            |
+| 13. **Django Forms - Part 2**<br>&nbsp;&nbsp;&nbsp;• Form Class Methods;<br>&nbsp;&nbsp;&nbsp;• Working with Media Files.                                                                                                                                                                                                                      |
+| 14. **Workshop: Part 3**                                                                                                                                                                                                                                                                                                                       |
+| 15. **Exam Preparation**                                                                                                                                                                                                                                                                                                                       |
+| 16. **Regular Exam**                                                                                                                                                                                                                                                                                                                           |
+| 17. **Retake Exam**                                                                                                                                                                                                                                                                                                                            |

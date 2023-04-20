@@ -2,7 +2,7 @@
 
 ![image](SoftUni-Logo-Flat.png)
 
-### This repository contains my solutions for the tasks from the SoftUni course Programming Advanced & OOP with Python-January-2023.<br>
+### This repository contains my solutions for the tasks from the SoftUni course Python Web Basics - May 2023.<br>
 
 ### [Python Web Basics Training Program](https://softuni.bg/trainings/4109/python-web-basics-may-2023)
 

@@ -8,6 +8,7 @@
 
 ### Course details:
 
+
 Course duration: 7 weeks<br>
 Course start: 10.05.2023<br>
 Course tutor: Ivan Ivanov
